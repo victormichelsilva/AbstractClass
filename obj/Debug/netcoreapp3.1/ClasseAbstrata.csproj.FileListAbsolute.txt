@@ -1,0 +1,14 @@
+D:\Victor\Estudos\C#\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.exe
+D:\Victor\Estudos\C#\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.deps.json
+D:\Victor\Estudos\C#\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.runtimeconfig.json
+D:\Victor\Estudos\C#\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.runtimeconfig.dev.json
+D:\Victor\Estudos\C#\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.dll
+D:\Victor\Estudos\C#\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.pdb
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.csproj.AssemblyReference.cache
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.AssemblyInfoInputs.cache
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.AssemblyInfo.cs
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.csproj.CoreCompileInputs.cache
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.dll
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.pdb
+D:\Victor\Estudos\C#\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.genruntimeconfig.cache
